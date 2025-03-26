@@ -28,11 +28,6 @@ Profesionalmente, quiero obtener mi bachiller como ingeniero de software, estudi
 ✨ **Mi propósito inicial:** Ser un profesional completo, desarrollar proyectos que inspiren, tener libertad personal y profesional, y ser recordado como alguien que sí lo logró.
 
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGi1fa4e2U/SutvLyat9iw3MWB0ofJGsQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGi1fa4e2U&#x2F;SutvLyat9iw3MWB0ofJGsQ&#x2F;view?utm_content=DAGi1fa4e2U&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Portfolio</a> de Paulo Benedicto Melendez Corrales
+## Mi presentación de Canva
+
+Puedes ver mi presentación de Canva [aquí](https://www.canva.com/design/DAGi1fa4e2U/SutvLyat9iw3MWB0ofJGsQ/view?utm_content=DAGi1fa4e2U&utm_campaign=designshare&utm_medium=embeds&utm_source=link).
